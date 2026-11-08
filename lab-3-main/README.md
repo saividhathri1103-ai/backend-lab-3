@@ -182,4 +182,4 @@ The following errors were studied and fixed:
 
 Successfully developed a RESTful API using Node.js, Express.js and SQLite. Implemented CRUD operations, query parameters, search, sorting, price filtering, input validation and debugging. Tested the API using Postman.
 ## Deployment link
-https://lab-3-0gqa.onrender.com/
+https://backend-lab-3-1-v4sx.onrender.com/
